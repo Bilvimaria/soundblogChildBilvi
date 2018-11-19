@@ -10,6 +10,44 @@ Version: 0.1.0
 
 /*test*/
 p {
-    color: pink;
+  color: red;
+  font-family: Roboto;
 }
 
+/* .site-title {
+  font-family: Roboto;
+} */
+
+.site-branding {
+  display: none;
+}
+
+.metaslider .caption,
+.metaslider .cs-title,
+.metaslider .nivo-caption {
+  font-size: 0.75em;
+}
+label {
+  color: #767676;
+  font-weight: 400;
+}
+
+.wpex-timeline-list .show-icon .style-center .timeline-details .img-left {
+  width: 100%;
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+.wptl-readmore-center,
+.wptl-readmore {
+  display: none !important;
+}
+.wpex-single-timeline {
+  font-size: 1em;
+}
+.single.single-wp-timeline .single-featured-image-header {
+  display: none;
+}
+/*.entry-header { display:none; }*/
+#post-11 .entry-title {
+  display: none;
+}
