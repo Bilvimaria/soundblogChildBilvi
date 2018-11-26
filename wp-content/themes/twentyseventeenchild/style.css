@@ -51,3 +51,6 @@ label {
 #post-11 .entry-title {
   display: none;
 }
+
+/* class 'concerts' is in the content-concert.php */
+.concerts p {color: blue;}
